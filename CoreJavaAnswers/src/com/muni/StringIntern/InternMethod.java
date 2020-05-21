@@ -1,4 +1,4 @@
-package com.muni.StingIntern;
+package com.muni.StringIntern;
 
 public class InternMethod {
 public static void main(String[] args) {
